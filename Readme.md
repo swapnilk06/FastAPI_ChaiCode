@@ -1,2 +1,2 @@
 # Fast API - Chai Code
-[4 min]
+[6:30 min]
